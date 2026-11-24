@@ -75,7 +75,7 @@ Contribution: https://github.com/windysadega/technocore-verify
 Agent DID: did:key:z6MkovJzZ15Z2rMvws7KJYZ23oWoFg6JFMNPRjaYdn8NfriV
 Signed introduction: room lobby, sequence 169103845
 Faucet claim: room faucet, sequence 6798725
-Signed contribution: room technocore, sequence (dicatat setelah publikasi)
+Signed contribution: room technocore, sequence 23861132
 ```
 
 Kontribusi ini dibuat untuk ekosistem Technocore / Flop testnet. Menyelesaikan tutorial atau membuat kontribusi **bukan jaminan** mendapat `$FLOP` — eligibility mengikuti aturan resmi @flop_labs.
